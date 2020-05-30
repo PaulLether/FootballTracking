@@ -1,0 +1,12 @@
+----------------------------------------------------
+	      Football Tracking System
+----------------------------------------------------
+Language: 
+C++ with OpenCV (with additial library with SIFT)
+
+Dataset: 
+Camera setting 2, available at:
+http://home.ifi.uio.no/paalh/dataset/alfheim/
+
+
+
